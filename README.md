@@ -3,7 +3,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
 
-<p>Welcome to my <b>Github Profile </b>! </br> I'm Livan, Fullstack Web Developer from <img src="https://icons8.com/icon/30491/colombia" width="20" style="margin: 0; padding: 0;"/> <b>Montería, Córdoba, Colombia</b>.</p>
+<p>Welcome to my <b>Github Profile </b>! </br> I'm Livan, Fullstack Web Developer from <img src="https://img.icons8.com/color/48/colombia-circular.png" width="20" style="margin: 0; padding: 0;"/> <b>Montería, Córdoba, Colombia</b>.</p>
 
 <p>
 <a target="_blank" href="https://github.com/livantorres">
